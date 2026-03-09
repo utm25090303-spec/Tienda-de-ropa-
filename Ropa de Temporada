@@ -1,0 +1,10 @@
+Inicio
+Leer tipo_prenda
+Leer temporada
+Leer talla
+Leer numero_producto
+
+codigo = tipo_prenda + "-" + temporada + "-" + talla + "-" + numero_producto
+
+Mostrar "El código de la prenda es: " + codigo
+Fin
