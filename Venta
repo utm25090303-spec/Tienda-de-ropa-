@@ -1,0 +1,10 @@
+Inicio
+Leer año
+Leer mes
+Leer tipo_producto
+Leer numero_venta
+
+codigo_venta = año + "-" + mes + "-" + tipo_producto + "-" + numero_venta
+
+Mostrar "El código de la venta es: " + codigo_venta
+Fin
